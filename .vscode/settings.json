@@ -1,0 +1,10 @@
+{
+    "python.pythonPath": "/Users/michaelcasas/.local/share/virtualenvs/django_todo_react-CZXBjIue/bin/python",
+    "files.exclude": {
+        "**/.DS_Store": false,
+        "**/.git": false,
+        "**/.hg": false,
+        "**/.svn": false,
+        "**/CVS": false
+    }
+}
